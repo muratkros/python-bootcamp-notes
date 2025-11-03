@@ -16,4 +16,4 @@ My progress through Jose Portilla's *Complete Python Bootcamp* course.
 - 🖥️ VS Code
 - ☁️ GitHub
 
-> “I make codes,sometimes it works” 
+> “blood,sweat and tears”
